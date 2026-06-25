@@ -2,4 +2,4 @@
 
 ## My Profile
 
-I am Sambit Mishra, student at IIT Bhubaneswar, frontend web and app developer, and competitive programmer.
+I am Sambit Mishra, ECE PhD student at USC Viterbi. I work on Causal Inference, specifically scalable causal algorithms and identifiability theory.
